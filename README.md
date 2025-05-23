@@ -15,7 +15,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: **muratbayarmm@gmail.com**
+- 📧 **muratbayarmm@gmail.com**
 - 🔗 [LinkedIn](https://linkedin.com/in/muratbayar55)
 - 🧠 [Hugging Face](https://huggingface.co/MUR55)
 - 📊 [Kaggle](https://kaggle.com/muratbayar55)
