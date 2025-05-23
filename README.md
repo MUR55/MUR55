@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🎯 I'm a developer specializing in **Artificial Intelligence** and **Natural Language Processing**
-- 🇹🇷 I focus particularly on **fine-tuning BERT models on Turkish text** for tasks like **personality detection** and **multi-label classification**
+- I focus particularly on **fine-tuning BERT models on Turkish text** for tasks like **personality detection** and **multi-label classification**
 - 🧪 Actively building tools for **CV analysis**, **trait classification**, and **Turkish language understanding**
 
 ### 📫 Contact Me
