@@ -16,7 +16,7 @@
 ### 📫 Contact Me
 
 - 📧 **muratbayarmm@gmail.com**
-- 🔗 [LinkedIn](https://linkedin.com/in/muratbayar55)
+- (https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg) [LinkedIn](https://linkedin.com/in/muratbayar55)
 - 🧠 [Hugging Face](https://huggingface.co/MUR55)
 - 📊 [Kaggle](https://kaggle.com/muratbayar55)
 
@@ -41,10 +41,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
----
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUR55&show_icons=true&theme=radical" alt="MUR55 stats"/>
-</p>
