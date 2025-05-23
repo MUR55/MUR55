@@ -16,7 +16,7 @@
 ### 📫 Contact Me
 
 - 📧 **muratbayarmm@gmail.com**
-- (https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg) [LinkedIn](https://linkedin.com/in/muratbayar55)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> (https://linkedin.com/in/muratbayar55)
 - 🧠 [Hugging Face](https://huggingface.co/MUR55)
 - 📊 [Kaggle](https://kaggle.com/muratbayar55)
 
